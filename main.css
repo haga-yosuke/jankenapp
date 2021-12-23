@@ -1,0 +1,17 @@
+.header_title{
+   font-size: 50px;
+   color: tomato;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+   margin: 10px 0 0 0;
+ }
+
+
+.footer {
+  font-size: 30px;
+   color:black;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
